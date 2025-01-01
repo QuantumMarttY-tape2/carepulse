@@ -4,9 +4,9 @@ Sentry.io
 tanstack react-table
 
 shadcn components such as:
-shadcn table
-shadcn dialog
-shadcn date picker
+shadcn table /n
+shadcn dialog /n
+shadcn date picker /n
 shadcn drop zone
 
 react-table
@@ -15,6 +15,10 @@ table
 # Admin code:
 123456
 
+# Video reference:
+https://www.youtube.com/watch?v=lEflo_sc82g
+
+# Next.js manual:
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
